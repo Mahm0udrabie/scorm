@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5xb0xc0nxgO_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">LMS TEST TRACKING </langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Template set created by FasterCourse</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="LMS_TEST_TRACKING__ORG">
+    <organization identifier="LMS_TEST_TRACKING__ORG">
+      <title>LMS TEST TRACKING </title>
+      <item identifier="Late_Evening_template_SCO" isvisible="true" identifierref="__5xb0xc0nxgO_course_id_RES">
+        <title>LMS TEST TRACKING </title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5xb0xc0nxgO_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6jDBBdmPoiq_B-30_DX3840_DY3840_CX2048_CY1365.jpg" />
+      <file href="mobile/60su7VhQpTV_P_795_896_313_183_DX2080_DY2080_CX313_CY184.png" />
+      <file href="mobile/5ocSUvLSNEA_DX260_DY260_CX193_CY195.png" />
+      <file href="mobile/64l6KioguyA_DX126_DY126_CX94_CY94.png" />
+      <file href="mobile/6DVYPwIDmjp_P_0_922_1920_158_DX3840_DY3840_CX1920_CY158.png" />
+      <file href="mobile/60AsooFdQIT_P_1838_43_81_82_DX298_DY298_CX82_CY82.png" />
+      <file href="mobile/68c4BY3hK2x_DX282_DY282_CX141_CY81.png" />
+      <file href="mobile/6mmJ45FjU5S_DX3840_DY3840_CX1920_CY956.png" />
+      <file href="mobile/6VqXKE2DqI7_P_621_861_682_109_DX2098_DY2098_CX559_CY90.png" />
+      <file href="mobile/5e2f1j0MBk6_DX1786_DY1786_CX1339_CY892.jpg" />
+      <file href="mobile/649YDRHihsm_DX2080_DY2080_CX1560_CY1040.jpg" />
+      <file href="mobile/5df6j8QyogQ_B-40_DX3828_DY3828_CX2048_CY1365.jpg" />
+      <file href="mobile/5is92xBqUz3_DX340_DY340_CX142_CY192.png" />
+      <file href="mobile/6ZuKlcRYNKd_DX326_DY326_CX141_CY191.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5gIMtlMv9QL.png" />
+      <file href="mobile/Shape5tSUvioFyP6.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6HfFSGYIONC.js" />
+      <file href="html5/data/js/6k7wNyS5HUn.js" />
+      <file href="html5/data/js/6RXolwp43aG.js" />
+      <file href="html5/data/js/6UTnXvYOlXX.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
